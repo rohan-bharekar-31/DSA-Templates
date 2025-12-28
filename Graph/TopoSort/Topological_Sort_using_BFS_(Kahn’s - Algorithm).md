@@ -59,10 +59,4 @@ O(V)
 
 ---
 
-### ⚠️ Important Notes (for quick recall)
-
-* Works **only for Directed Graph**
-* If `topo.size() < V` → **cycle exists**
-* Uses **BFS + indegree**
-* Multiple valid topological orders possible
 
